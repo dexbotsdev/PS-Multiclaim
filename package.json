@@ -1,0 +1,24 @@
+{
+  "name": "ps-multiclaim",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "syed-mehdi",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@ptkdev/logger": "^1.8.0",
+    "@types/node": "^18.7.17",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "ethers": "^5.7.0",
+    "fs": "^0.0.1-security",
+    "typescript": "^4.8.3",
+    "web3": "^1.7.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
