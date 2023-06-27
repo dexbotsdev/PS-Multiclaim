@@ -1,0 +1,29 @@
+{
+    "ChainId":1,
+    "Network":"Ethereum",
+    "ProviderURLHTTP":"",
+    "ProviderURLWS":"",
+    "PinkSaleContractAddress":"", 
+    "WalletsToClaim":[
+        {
+            "wallet":" ",
+            "privateKey": " "
+        },
+        {
+            "wallet":" ",
+            "privateKey": " "
+        },
+        {
+            "wallet":" ",
+            "privateKey": " "
+        },
+        {
+            "wallet":" ",
+            "privateKey": " "
+        },
+        {
+            "wallet":" ",
+            "privateKey": " "
+        }
+    ]
+}
